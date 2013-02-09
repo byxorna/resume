@@ -12,29 +12,29 @@ Gabriel S. Conradi
 - [https://github.com/byxorna][github]
 - +1.314.827.4223
 
-#Summary
+###Summary
 
 Linux engineer, front and backend web developer, systems architect.
 
-#Technical Skills
+###Technical Skills
 
-_*Languages:*_ Bash/Zsh, Ruby, Javascript, Node, HTML/CSS, C\#, Perl, Scala, [T]SQL, Python, C/C++, Java, many others
+__Languages:__ Bash/Zsh, Ruby, Javascript, Node, HTML/CSS, C\#, Perl, Scala, [T]SQL, Python, C/C++, Java, many others
 
-*OSes:* Linux (RHEL, Debian/Ubuntu, SuSE), Solaris, BSD
+__OSes:__ Linux (RHEL, Debian/Ubuntu, SuSE), Solaris, BSD
 
-*Tools/Libraries:* jQuery, CFEngine2/3, Git, Ruby on Rails, Gerrit, Resque, MVC3, Perforce, LXC/Xen/KVM/VMWare, ORMs
+__Tools:__ jQuery, CFEngine2/3, Git, Ruby on Rails, Gerrit, Resque, MVC3, Perforce, LXC/Xen/KVM/VMWare, ORMs
 
-*Storage:* GPFS, NetApp, Isilon, ZFS
+__Storage:__ GPFS, NetApp, Isilon, ZFS
 
-*Applications:* MySQL, Redis, MSSQL, Apache, Autofs, Nginx, NcFTP
+__Applications:__ MySQL, Redis, MSSQL, Apache, Autofs, Nginx, NcFTP
 
-*Network Experience:* Cisco Switches & Routers, MERU Wireless
+__Networking:__ Cisco Switches & Routers, MERU Wireless
 
 ***
 
 #Education
 
-##Washington University in St. Louis, MO - 2006-2010
+###Washington University in St. Louis, MO - 2006-2010
 
 - Bachelor of Science with a major in Computer Science
 - Major in Germanic Languages & Literature
@@ -44,7 +44,7 @@ _*Languages:*_ Bash/Zsh, Ruby, Javascript, Node, HTML/CSS, C\#, Perl, Scala, [T]
 
 #Work Experience
 
-##[FactSet Research Systems, Inc][factset] - Norwalk, CT
+###[FactSet Research Systems, Inc][factset] - Norwalk, CT
 
 ####Unix Systems Engineer III, UNIX Team - October 2011 to present
 
@@ -55,6 +55,7 @@ _*Languages:*_ Bash/Zsh, Ruby, Javascript, Node, HTML/CSS, C\#, Perl, Scala, [T]
 - Designed and managed services providing REST interfaces to MySQL, Web infrastructure 
 - Integrated other teams services into our applications for seamless experiences 
 
+
 ####Voice Engineer, Voice Engineering (Core Network Engineering) - July 2010 to October 2011
 
 - Designed, implemented, and supported a global voice network 
@@ -62,9 +63,9 @@ _*Languages:*_ Bash/Zsh, Ruby, Javascript, Node, HTML/CSS, C\#, Perl, Scala, [T]
 - Designed internal reporting tools using modern languages, libraries, and practices 
 - Configured dial plan to support toll-aversion, mixed VOIP and POTS infrastructure 
 - Worked with Cisco voice routers, CallManager, Unity Messaging 
- 
 
-##[Washington University Network Services & Support][nss] - St. Louis, MO
+
+###[Washington University Network Services & Support][nss] - St. Louis, MO
 
 ####UNIX Systems Administrator - March 2009 to present
 
@@ -75,7 +76,7 @@ _*Languages:*_ Bash/Zsh, Ruby, Javascript, Node, HTML/CSS, C\#, Perl, Scala, [T]
 - Implemented new technologies as they became available to improve network service 
 
 
-##[Hi/Tec Copy Center][hitec] - St. Louis, MO
+###[Hi/Tec Copy Center][hitec] - St. Louis, MO
 
 ####Copier Operator/Customer Service Representative - August 2004 to September 2008
 
@@ -84,7 +85,7 @@ _*Languages:*_ Bash/Zsh, Ruby, Javascript, Node, HTML/CSS, C\#, Perl, Scala, [T]
 - Designed customer's orders with professional graphic design software 
 - Mounted and framed large format posters 
 
-##Self Employed - St. Louis, MO
+###Self Employed - St. Louis, MO
 
 ####Computer Consultant - January 2000 to present
 
@@ -96,7 +97,7 @@ _*Languages:*_ Bash/Zsh, Ruby, Javascript, Node, HTML/CSS, C\#, Perl, Scala, [T]
 Volunteer Work
 ==============
 
-##[St. Louis Science Center][slsc] - St. Louis, MO
+###[St. Louis Science Center][slsc] - St. Louis, MO
 
 ####Volunteer Gallery Aide - June 2001 to August 2004
 
