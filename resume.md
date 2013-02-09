@@ -16,6 +16,22 @@ Gabriel S. Conradi
 
 Linux engineer, front and backend web developer, systems architect.
 
+#Technical Skills
+
+_*Languages:*_ Bash/Zsh, Ruby, Javascript, Node, HTML/CSS, C\#, Perl, Scala, [T]SQL, Python, C/C++, Java, many others
+
+*OSes:* Linux (RHEL, Debian/Ubuntu, SuSE), Solaris, BSD
+
+*Tools/Libraries:* jQuery, CFEngine2/3, Git, Ruby on Rails, Gerrit, Resque, MVC3, Perforce, LXC/Xen/KVM/VMWare, ORMs
+
+*Storage:* GPFS, NetApp, Isilon, ZFS
+
+*Applications:* MySQL, Redis, MSSQL, Apache, Autofs, Nginx, NcFTP
+
+*Network Experience:* Cisco Switches & Routers, MERU Wireless
+
+***
+
 #Education
 
 ##Washington University in St. Louis, MO - 2006-2010
@@ -24,14 +40,7 @@ Linux engineer, front and backend web developer, systems architect.
 - Major in Germanic Languages & Literature
 - Dean's List Fall 2006, Fall 2007, Spring 2008, Spring 2009
 
-#Technical Skills
-
-*Languages:* Bash/Zsh, Ruby, Javascript, Node, HTML/CSS, C\#, Perl, Scala, [T]SQL, Python, C/C++, Java, many others
-*OSes:* Linux (RHEL, Debian/Ubuntu, SuSE), Solaris, BSD
-*Tools/Libraries:* jQuery, CFEngine2/3, Git, Ruby on Rails, Gerrit, Resque, MVC3, Perforce, LXC/Xen/KVM/VMWare, ORMs
-*Storage:* GPFS, NetApp, Isilon, ZFS
-*Applications:* MySQL, Redis, MSSQL, Apache, Autofs, Nginx, NcFTP
-*Network Experience:* Cisco Switches & Routers, MERU Wireless
+***
 
 #Work Experience
 
@@ -82,7 +91,7 @@ Linux engineer, front and backend web developer, systems architect.
 - Provide Linux and web architecture consultation for scalable design
 - Support hardware
 
- 
+***
 
 Volunteer Work
 ==============
