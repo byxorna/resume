@@ -1,0 +1,17 @@
+{
+  "name": "resume",
+  "version": "0.0.1",
+  "description": "Gabe Conradi's resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/byxorna/resume.git"
+  },
+  "author": "Gabe Conradi <gummybearx@gmail.com>",
+  "license": "Apache 2.0",
+  "readmeFilename": "README.md",
+  "gitHead": "913f882d02c9fe4b0f05cb6557c26fbeda06b51e"
+}
