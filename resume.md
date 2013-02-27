@@ -32,16 +32,6 @@ __Networking:__ Cisco Switches & Routers, MERU Wireless
 
 ***
 
-#Education
-
-###Washington University in St. Louis, MO - 2006-2010
-
-- Bachelor of Science with a major in Computer Science
-- Major in Germanic Languages & Literature
-- Dean's List Fall 2006, Fall 2007, Spring 2008, Spring 2009
-
-***
-
 #Work Experience
 
 ###[FactSet Research Systems, Inc][factset] - Norwalk, CT
@@ -85,12 +75,15 @@ __Networking:__ Cisco Switches & Routers, MERU Wireless
 - Designed customer's orders with professional graphic design software 
 - Mounted and framed large format posters 
 
-###Self Employed - St. Louis, MO
+***
 
-####Computer Consultant - January 2000 to present
+#Education
 
-- Provide Linux and web architecture consultation for scalable design
-- Support hardware
+###Washington University in St. Louis, MO - 2006-2010
+
+- Bachelor of Science with a major in Computer Science
+- Major in Germanic Languages & Literature
+- Dean's List Fall 2006, Fall 2007, Spring 2008, Spring 2009
 
 ***
 
