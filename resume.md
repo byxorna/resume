@@ -48,7 +48,7 @@ __Networking:__ Cisco Switches & Routers, MERU Wireless
 
 ####Unix Systems Engineer III, UNIX Team - October 2011 to present
 
-- Fast growing environment of 800 RHEL5, 6 and 7 machines, transitioning from VMS to Linux 
+- Fast growing environment of 800 RHEL5 and 6 machines, transitioning from VMS to Linux 
 - Automated and simplified everything from patching, builds, deployments and decommissions 
 - Lead GPFS engineer; managed 150+ node clusters, tuned for application performance 
 - Designed front and back-end of large internal websites using the best tech for the job 
