@@ -10,6 +10,7 @@ Gabriel S. Conradi
 
 - [gabe.conradi@gmail.com][email]
 - [https://github.com/byxorna][github]
+- [http://pipefail.com](http://pipefail.com)
 - +1.314.827.4223
 
 ###Summary
