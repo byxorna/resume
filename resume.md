@@ -23,7 +23,7 @@ __Languages:__ Bash/Zsh, Ruby, Javascript, Node, HTML/CSS, C\#, Perl, Scala, [T]
 
 __OSes:__ Linux (RHEL, Debian/Ubuntu, SuSE), Solaris, BSD
 
-__Tools:__ jQuery, CFEngine2/3, Git, Ruby on Rails, Gerrit, Resque, MVC3, Perforce, LXC/Xen/KVM/VMWare, ORMs
+__Tools:__ jQuery, CFEngine2/3, Git, Ruby on Rails, Gerrit, Backbone.js, Resque, MVC3, Perforce, LXC/Xen/KVM/VMWare, ORMs
 
 __Storage:__ GPFS, NetApp, Isilon, ZFS
 
