@@ -15,21 +15,21 @@ Gabriel S. Conradi
 
 ###Summary
 
-Linux engineer, front and backend web developer, systems architect.
+Linux engineer, front and backend web developer, systems architect, with an eye towards scalable design, interesting problems, and service oriented architecture.
 
 ###Technical Skills
 
-__Languages:__ Bash/Zsh, Ruby, Javascript, Node, HTML/CSS, C\#, Perl, Scala, [T]SQL, Python, C/C++, Java, many others
+__Languages:__ Bash/Zsh, Ruby, Javascript/Node, HTML/CSS, C\#, Perl, Scala, [T]SQL, Python, C/C++, Java, many others
 
 __OSes:__ Linux (RHEL, Debian/Ubuntu, SuSE), Solaris, BSD
 
 __Tools:__ jQuery, CFEngine2/3, Git, Ruby on Rails, Gerrit, Backbone.js, Resque, MVC3, Perforce, LXC/Xen/KVM/VMWare, ORMs
 
-__Storage:__ GPFS, NetApp, Isilon, ZFS
+__Storage:__ GPFS, LVM, NetApp, Isilon, ZFS
 
-__Applications:__ MySQL, Redis, MSSQL, Apache, Autofs, Nginx, NcFTP
+__Applications:__ Apache, Autofs, MySQL, Redis, MSSQL, NcFTP, NetBackup, Nagios
 
-__Networking:__ Cisco Switches & Routers, MERU Wireless
+__Networking:__ Cisco Switches Routers and VOIP, F5/A10 Load Balancers, MERU Wireless
 
 ***
 
@@ -43,8 +43,8 @@ __Networking:__ Cisco Switches & Routers, MERU Wireless
 - Automated and simplified everything from patching, builds, deployments and decommissions 
 - Lead GPFS engineer; managed 150+ node clusters, tuned for application performance 
 - Designed front and back-end of large internal websites using the best tech for the job 
-- Designed and managed services providing REST interfaces to MySQL, Web infrastructure 
-- Integrated other teams services into our applications for seamless experiences 
+- Designed and managed services providing REST interfaces to MySQL, Web infrastructure, and provisioning
+- Integrated other teams services into our applications for seamless experiences
 
 
 ####Voice Engineer, Voice Engineering (Core Network Engineering) - July 2010 to October 2011
@@ -53,7 +53,7 @@ __Networking:__ Cisco Switches & Routers, MERU Wireless
 - Built complex client-side applications to support global consultant workforce 
 - Designed internal reporting tools using modern languages, libraries, and practices 
 - Configured dial plan to support toll-aversion, mixed VOIP and POTS infrastructure 
-- Worked with Cisco voice routers, CallManager, Unity Messaging 
+- Worked with Cisco voice routers, CallManager, Unity Messaging, Unified Contact Center
 
 
 ###[Washington University Network Services & Support][nss] - St. Louis, MO
