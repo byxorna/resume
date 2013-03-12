@@ -19,7 +19,7 @@ Linux engineer, front and backend web developer, systems architect, with an eye 
 
 ###Technical Skills
 
-__Languages:__ Bash/Zsh, Ruby, Javascript/Node, HTML/CSS, C\#, Perl, Scala, [T]SQL, Python, C/C++, Java, many others
+__Languages:__ Bash/Zsh, Ruby, Javascript/Node, HTML/CSS, C\#, Perl, C/C++, [T]SQL, Scala, Java, Python
 
 __OSes:__ Linux (RHEL, Debian/Ubuntu, SuSE), Solaris, BSD
 
@@ -39,13 +39,13 @@ __Networking:__ Cisco Switches Routers and VOIP, F5/A10 Load Balancers, MERU Wir
 
 ####Unix Systems Engineer III, UNIX Team - October 2011 to present
 
-- Worked to make fast growing environment of 800 RHEL5 and 6 machines transitioning from VMS to Linux scalable
-- Automated and simplified everything from patching, builds, deployments and decommissions
-- Built and configured physical and virtual systems with CFEngine and homemade provisioning tools at scale
-- Lead GPFS engineer; managed 150+ node clusters, tuned for application performance
-- Debugged and patched critical issues in upstream projects, built and deployed custom RPMs
-- Designed front and back-end of large internal websites using the best tech for the job
-- Designed and managed services providing REST interfaces to MySQL, Web infrastructure, and provisioning
+- Work in environment of 800+ RHEL5 and 6 machines, enabling transition from VMS to Linux at scale
+- Automate and simplify patching, builds, configuration management, deployments, and decommissions
+- Build and configure physical and virtual systems with CFEngine and homemade provisioning tools
+- Lead GPFS engineer; manage 150+ node clusters, tuned for application performance
+- Debug and patch critical issues in upstream projects, build and deploy custom RPMs
+- Design front and back-end of large internal websites using modern technologies and techniques
+- Design and manage services providing REST interfaces to MySQL, web infrastructure, and provisioning
 
 
 ####Voice Engineer, Voice Engineering (Core Network Engineering) - July 2010 to October 2011
@@ -54,12 +54,12 @@ __Networking:__ Cisco Switches Routers and VOIP, F5/A10 Load Balancers, MERU Wir
 - Built complex client-side applications to support global consultant workforce 
 - Designed internal reporting tools using modern languages, libraries, and practices 
 - Configured dial plan to support toll-aversion, mixed VOIP and POTS infrastructure 
-- Worked with Cisco voice routers, CallManager, Unity Messaging, Unified Contact Center
+- Worked with Cisco voice routers, CallManager, Unity Messaging, and Unified Contact Center
 
 
 ###[Washington University Network Services & Support][nss] - St. Louis, MO
 
-####UNIX Systems Administrator - March 2009 to present
+####UNIX Systems Administrator - March 2009 to July 2010
 
 - Maintained and deployed production Linux and Solaris environments 
 - Designed custom backup, HA, and monitoring solutions 
@@ -81,11 +81,13 @@ __Networking:__ Cisco Switches Routers and VOIP, F5/A10 Load Balancers, MERU Wir
 
 #Education
 
-###Washington University in St. Louis, MO - 2006-2010
+###Washington University in St. Louis, MO - September 2006 to May 2010
 
-- Bachelor of Science with a major in Computer Science
-- Major in Germanic Languages & Literature
+- Bachelor of Science in Applied Science with a double major in:
+  - Computer Science (Cum Laude)
+  - Germanic Languages & Literature
 - Dean's List Fall 2006, Fall 2007, Spring 2008, Spring 2009
+- Overall cumulative GPA 3.71
 
 ***
 
