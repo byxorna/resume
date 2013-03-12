@@ -23,7 +23,7 @@ __Languages:__ Bash/Zsh, Ruby, Javascript/Node, HTML/CSS, C\#, Perl, Scala, [T]S
 
 __OSes:__ Linux (RHEL, Debian/Ubuntu, SuSE), Solaris, BSD
 
-__Tools:__ jQuery, CFEngine2/3, Git, Ruby on Rails, Gerrit, Backbone.js, Resque, MVC3, Perforce, LXC/Xen/KVM/VMWare, ORMs, Kickstart, PXE, TFTP Boot
+__Tools:__ jQuery, CFEngine2/3, Git, Ruby on Rails, Gerrit, Backbone.js, Resque, MVC3, Perforce, LXC/Xen/KVM/VMWare, ORMs, Kickstart, PXE, TFTP Boot, RPM
 
 __Storage:__ GPFS, LVM, Multipath, NetApp, Isilon, ZFS
 
@@ -43,6 +43,7 @@ __Networking:__ Cisco Switches Routers and VOIP, F5/A10 Load Balancers, MERU Wir
 - Automated and simplified everything from patching, builds, deployments and decommissions
 - Built and configured physical and virtual systems with CFEngine and homemade provisioning tools at scale
 - Lead GPFS engineer; managed 150+ node clusters, tuned for application performance
+- Debugged and patched critical issues in upstream projects, built and deployed custom RPMs
 - Designed front and back-end of large internal websites using the best tech for the job
 - Designed and managed services providing REST interfaces to MySQL, Web infrastructure, and provisioning
 
