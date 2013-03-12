@@ -25,7 +25,7 @@ __OSes:__ Linux (RHEL, Debian/Ubuntu, SuSE), Solaris, BSD
 
 __Tools:__ jQuery, CFEngine2/3, Git, Ruby on Rails, Gerrit, Backbone.js, Resque, MVC3, Perforce, LXC/Xen/KVM/VMWare, ORMs
 
-__Storage:__ GPFS, LVM, NetApp, Isilon, ZFS
+__Storage:__ GPFS, LVM, Multipath, NetApp, Isilon, ZFS
 
 __Applications:__ Apache, Autofs, MySQL, Redis, MSSQL, NcFTP, NetBackup, Nagios
 
