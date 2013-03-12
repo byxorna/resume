@@ -23,7 +23,7 @@ __Languages:__ Bash/Zsh, Ruby, Javascript/Node, HTML/CSS, C\#, Perl, Scala, [T]S
 
 __OSes:__ Linux (RHEL, Debian/Ubuntu, SuSE), Solaris, BSD
 
-__Tools:__ jQuery, CFEngine2/3, Git, Ruby on Rails, Gerrit, Backbone.js, Resque, MVC3, Perforce, LXC/Xen/KVM/VMWare, ORMs
+__Tools:__ jQuery, CFEngine2/3, Git, Ruby on Rails, Gerrit, Backbone.js, Resque, MVC3, Perforce, LXC/Xen/KVM/VMWare, ORMs, Kickstart, PXE, TFTP Boot
 
 __Storage:__ GPFS, LVM, Multipath, NetApp, Isilon, ZFS
 
@@ -39,12 +39,12 @@ __Networking:__ Cisco Switches Routers and VOIP, F5/A10 Load Balancers, MERU Wir
 
 ####Unix Systems Engineer III, UNIX Team - October 2011 to present
 
-- Fast growing environment of 800 RHEL5 and 6 machines, transitioning from VMS to Linux 
-- Automated and simplified everything from patching, builds, deployments and decommissions 
-- Lead GPFS engineer; managed 150+ node clusters, tuned for application performance 
-- Designed front and back-end of large internal websites using the best tech for the job 
+- Worked to make fast growing environment of 800 RHEL5 and 6 machines transitioning from VMS to Linux scalable
+- Automated and simplified everything from patching, builds, deployments and decommissions
+- Built and configured physical and virtual systems with CFEngine and homemade provisioning tools at scale
+- Lead GPFS engineer; managed 150+ node clusters, tuned for application performance
+- Designed front and back-end of large internal websites using the best tech for the job
 - Designed and managed services providing REST interfaces to MySQL, Web infrastructure, and provisioning
-- Integrated other teams services into our applications for seamless experiences
 
 
 ####Voice Engineer, Voice Engineering (Core Network Engineering) - July 2010 to October 2011
