@@ -19,7 +19,7 @@ Linux engineer, front and backend web developer, systems architect, with an eye 
 
 ###Technical Skills
 
-__Languages:__ Bash/Zsh, Ruby, Javascript/Node, HTML/CSS, C\#, Perl, C/C++, [T]SQL, Scala, Java, Python
+__Languages:__ Bash/Zsh, Ruby, Javascript/Node, HTML/CSS, C\#, Perl, C/C++, SQL, Scala, Java, Python
 
 __OSes:__ Linux (RHEL, Debian/Ubuntu, SuSE), Solaris, BSD
 
