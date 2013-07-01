@@ -1,6 +1,7 @@
 [github]: https://github.com/byxorna "GitHub"
 [email]: mailto:gabe.conradi@gmail.com
 [factset]: http://www.factset.com "FactSet Research Systems"
+[tumblr]: http://www.tumblr.com "Tumblr"
 [nss]: http://nss.wustl.edu/ "Washington University Network Services"
 [hitec]: http://www.hiteccopy.com/ "Hi/Tec Copy Center"
 [slsc]: http://www.slsc.org/ "St. Louis Science Center"
@@ -35,9 +36,13 @@ __Networking:__ Cisco Switches Routers and VOIP, F5/A10 Load Balancers, MERU Wir
 
 #Work Experience
 
+###[Tumblr][tumblr] - New York, NY
+
+####Site Reliability Engineer - July 2013 to present
+
 ###[FactSet Research Systems, Inc][factset] - Norwalk, CT
 
-####Unix Systems Engineer III, UNIX Team - October 2011 to present
+####Unix Systems Engineer III, UNIX Team - October 2011 to June 2013
 
 - Work in environment of 800+ RHEL5 and 6 machines, enabling transition from VMS to Linux at scale
 - Automate and simplify patching, builds, configuration management, deployments, and decommissions
