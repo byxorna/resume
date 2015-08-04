@@ -1,36 +1,58 @@
 [github]: https://github.com/byxorna "GitHub"
-[email]: mailto:gabe.conradi@gmail.com
-[factset]: http://www.factset.com "FactSet Research Systems"
-[tumblr]: http://www.tumblr.com "Tumblr"
+[email]: mailto:gabe.conradi+rct@gmail.com
+[factset]: https://www.factset.com "FactSet Research Systems"
+[tumblr]: https://www.tumblr.com "Tumblr"
 [nss]: http://nss.wustl.edu/ "Washington University Network Services"
 [hitec]: http://www.hiteccopy.com/ "Hi/Tec Copy Center"
 [slsc]: http://www.slsc.org/ "St. Louis Science Center"
+[collins]: https://github.com/tumblr/collins "Collins"
+[genesis]: https://github.com/tumblr/genesis "Genesis"
+[goji]: https://github.com/byxorna/goji "Goji"
+[merlin]: https://github.com/byxorna/merlin "Merlin"
+[moroccron]: https://github.com/byxorna/moroccron "Moroccron"
+[tumblr-geodash]: https://github.com/byxorna/tumblr-geodash "Tumblr Geodash"
+[collins-cli]: https://github.com/byxorna/collins-cli "Collins CLI"
+[site]: https://github.com/byxorna/site "Site"
+[pipefail]: http://pipefail.com "pipefail.com"
 
-Gabriel S. Conradi
+Gabriel (Gabe) S. Conradi
 ==================
 
 - [gabe.conradi@gmail.com][email]
 - [https://github.com/byxorna][github]
 - [http://pipefail.com](http://pipefail.com)
-- +1.314.827.4223
 
 ###Summary
 
 Linux engineer, front and backend web developer, systems architect, with an eye towards scalable design, interesting problems, and service oriented architecture.
 
-###Technical Skills
+###Buzzwords
 
-__Languages:__ Bash/Zsh, Ruby, Javascript/Node, HTML/CSS, C\#, Perl, C/C++, SQL, Scala, Java, Python
+__Languages:__ Bash/Zsh, Ruby, Golang, Scala, Javascript/Node, HTML/CSS, PHP, C\#, Perl, C/C++, SQL, Java, Python
 
-__OSes:__ Linux (RHEL, Debian/Ubuntu, SuSE), Solaris, BSD
+__OSes:__ Linux (RHEL derivatives, Debian/Ubuntu, SuSE), Solaris, BSD
 
-__Tools:__ jQuery, CFEngine2/3, Git, Ruby on Rails, Gerrit, Backbone.js, Resque, MVC3, Perforce, LXC/Xen/KVM/VMWare, ORMs, Kickstart, PXE, TFTP Boot, RPM
+__Tools:__ Puppet, D3.js, RPM+tito+mock, Jenkins, Drone.io, Docker, Collins, Genesis, mrepo, Kibana, Logstash, Fluentd, GitHub, Collectd, OSPF, jQuery, CFEngine2/3, Git, Ruby on Rails, Gerrit, Backbone.js, Resque, MVC3, Perforce, LXC/Xen/KVM/VMWare, ORMs, Kickstart, PXE, TFTP Boot
 
-__Storage:__ GPFS, LVM, Multipath, NetApp, Isilon, ZFS
+__Storage:__ HDFS, GPFS, LVM, Multipath, NetApp, Isilon, ZFS
 
-__Applications:__ Apache, Autofs, MySQL, Redis, MSSQL, NcFTP, NetBackup, Nagios
+__Applications:__ Nginx, Apache, Autofs, MySQL, Redis, MSSQL, NcFTP, NetBackup, Nagios, Icinga 1+2, Redis, memcached, HAProxy, Varnish, ElasticSearch, ZooKeeper, OpenTSDB, Mesos, Marathon, Kubernetes
 
-__Networking:__ Cisco Switches Routers and VOIP, F5/A10 Load Balancers, MERU Wireless
+__Networking:__ Juniper Switches, Cisco Switches Routers and VOIP, F5/A10 Load Balancers, MERU Wireless
+
+###Noteworthy Personal Projects
+
+- [goji] - Evented service discovery for apps in Marathon to generate DNS zones, HAProxy configs, etc (Golang)
+- [merlin] - confd inspired etcd backed config emitter (Ruby)
+- [moroccron] - Mesos framework for scheduled tasks, similar to Chronos (Golang)
+- [tumblr-geodash] - Radiator dashboard for visualizing Tumblr posts in realtime from firehose (Golang, JS)
+- [collins-cli] - CLI for interfacing with [collins] API (Ruby)
+- [site] - Site driving [pipefail] (Node)
+
+###Notable Upstream Contributions
+
+- [collins] - Tumblr's infrastructure automation and asset management database (Scala)
+- [genesis] - Tumblr's infrastructure provisioning and automation framework (Ruby)
 
 ***
 
@@ -38,7 +60,28 @@ __Networking:__ Cisco Switches Routers and VOIP, F5/A10 Load Balancers, MERU Wir
 
 ###[Tumblr][tumblr] - New York, NY
 
-####Site Reliability Engineer - July 2013 to present
+####SRE Staff Engineer - September 2014 to present
+
+- Provided technical leadership in the SRE domain
+- Formalized developer contribution processes and guidelines to accomodate a rapidly growing number of repos and development team 
+- Fostered culture of blameless breaking incident postmortems, encouraging repayment of tech debt
+- Drove architecture planning processes for new projects
+- Architected and spearheaded transition to containerized services in production
+- Created full container lifecycle automation in both bare metal and scheduled (i.e. Mesos) environments (logging, metrics, monitoring, deployment, config deployment)
+- Created a comprehensive log aggregation, alerting, and dashboarding infrastructure with Logstash, Kibana, ElasticSearch, and Icinga
+
+####Site Reliability Engineer - July 2013 to September 2014
+
+- Maintained and scaled infrastructure of top 20 site in US
+- Web scale HTTP operation and architecture (Load balancing, caching, CDNs, async job tier, DB sharding, etc)
+- Architected fully automated bare metal provisioning system
+- Improved fully automated service discovery mechanisms driving provisioning, load balancing, etc
+- Owned and architected scalable and HA configuration management infrastructure
+- Contributed to and maintained open source projects ([Collins][collins], [Genesis][genesis])
+- Built and integrated fully automated and self service OpenStack VM development environment
+- Created, maintained, and backported builds of critical packages to maintain a Tumblr distribution (PHP, Nginx, Ruby, Collectd, Puppet, Java, etc)
+- Performance tuning of critical systems
+
 
 ###[FactSet Research Systems, Inc][factset] - Norwalk, CT
 
