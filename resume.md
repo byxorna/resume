@@ -18,7 +18,7 @@
 Gabriel (Gabe) S. Conradi
 ==================
 
-- [gabe.conradi@gmail.com][email]
+- [gabe.conradi+rct@gmail.com][email]
 - [https://github.com/byxorna][github]
 - [http://pipefail.com](http://pipefail.com)
 
@@ -34,9 +34,9 @@ __OSes:__ Linux (RHEL derivatives, Debian/Ubuntu, SuSE), Solaris, BSD
 
 __Tools:__ Puppet, D3.js, RPM+tito+mock, Jenkins, Drone.io, Docker, Collins, Genesis, mrepo, Kibana, Logstash, Fluentd, GitHub, Collectd, OSPF, jQuery, CFEngine2/3, Git, Ruby on Rails, Gerrit, Backbone.js, Resque, MVC3, Perforce, LXC/Xen/KVM/VMWare, ORMs, Kickstart, PXE, TFTP Boot
 
-__Storage:__ HDFS, GPFS, LVM, Multipath, NetApp, Isilon, ZFS
+__Storage:__ HDFS, GPFS, NFS, LVM, Multipath, NetApp, Isilon, ZFS
 
-__Applications:__ Nginx, Apache, Autofs, MySQL, Redis, MSSQL, NcFTP, NetBackup, Nagios, Icinga 1+2, Redis, memcached, HAProxy, Varnish, ElasticSearch, ZooKeeper, OpenTSDB, Mesos, Marathon, Kubernetes
+__Applications:__ Nginx, Apache, Autofs, MySQL, Redis, MSSQL, NcFTP, NetBackup, Nagios, Icinga 1+2, Redis, memcached, HAProxy, Varnish, ElasticSearch, ZooKeeper, OpenTSDB, Mesos, Marathon, Kubernetes, OpenStack
 
 __Networking:__ Juniper Switches, Cisco Switches Routers and VOIP, F5/A10 Load Balancers, MERU Wireless
 
@@ -44,10 +44,10 @@ __Networking:__ Juniper Switches, Cisco Switches Routers and VOIP, F5/A10 Load B
 
 - [goji] - Evented service discovery for apps in Marathon to generate DNS zones, HAProxy configs, etc (Golang)
 - [merlin] - confd inspired etcd backed config emitter (Ruby)
-- [moroccron] - Mesos framework for scheduled tasks, similar to Chronos (Golang)
+- [moroccron] - mesos + cron = moroccron. Mesos framework for scheduled tasks, similar to Chronos (Golang)
 - [tumblr-geodash] - Radiator dashboard for visualizing Tumblr posts in realtime from firehose (Golang, JS)
 - [collins-cli] - CLI for interfacing with [collins] API (Ruby)
-- [site] - Site driving [pipefail] (Node)
+- [site] - Site driving [pipefail][pipefail.com] (Node)
 
 ###Notable Upstream Contributions
 
