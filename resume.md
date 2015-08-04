@@ -24,7 +24,7 @@ Gabriel (Gabe) S. Conradi
 
 ###Summary
 
-Linux engineer, front and backend web developer, systems architect, with an eye towards scalable design, interesting problems, and service oriented architecture.
+Linux engineer, systems architect, front and backend web developer, with an eye towards scalable design, containers, future technologies, interesting problems, clean solutions, and service oriented architecture.
 
 ###Buzzwords
 
