@@ -2,6 +2,7 @@
 [email]: mailto:gabe.conradi+rct@gmail.com
 [factset]: https://www.factset.com "FactSet Research Systems"
 [tumblr]: https://www.tumblr.com "Tumblr"
+[uberatc]: https://www.uberatc.com "Uber ATC"
 [nss]: http://nss.wustl.edu/ "Washington University Network Services"
 [hitec]: http://www.hiteccopy.com/ "Hi/Tec Copy Center"
 [slsc]: http://www.slsc.org/ "St. Louis Science Center"
@@ -32,13 +33,13 @@ __Languages:__ Bash/Zsh, Ruby, Golang, Scala, Javascript/Node, HTML/CSS, PHP, C\
 
 __OSes:__ Linux (RHEL derivatives, Debian/Ubuntu, SuSE), Solaris, BSD
 
-__Tools:__ Puppet, D3.js, RPM+tito+mock, Jenkins, Drone.io, Docker, Collins, Genesis, mrepo, Kibana, Logstash, Fluentd, GitHub, Collectd, OSPF, jQuery, CFEngine2/3, Git, Ruby on Rails, Gerrit, Backbone.js, Resque, MVC3, Perforce, LXC/Xen/KVM/VMWare, ORMs, Kickstart, PXE, TFTP Boot
+__Tools:__ Puppet, D3.js, RPM+tito+mock, Jenkins, Drone.io, Docker, Collins, Genesis, mrepo, Kibana, Logstash, Fluentd, GitHub, Collectd, OSPF, jQuery, CFEngine2/3, Git, Ruby on Rails, Gerrit, Backbone.js, Resque, MVC3, Perforce, LXC/Xen/KVM/VMWare, ORMs, Kickstart, PXE, TFTP Boot, Phabricator
 
-__Storage:__ HDFS, GPFS, NFS, LVM, Multipath, NetApp, Isilon, ZFS
+__Storage:__ HDFS, GPFS, NFS, LVM, Multipath, NetApp, Isilon, ZFS, Lustre
 
-__Applications:__ Nginx, Apache, Autofs, MySQL, Redis, MSSQL, NcFTP, NetBackup, Nagios, Icinga 1+2, Redis, memcached, HAProxy, Varnish, ElasticSearch, ZooKeeper, OpenTSDB, Mesos, Marathon, Kubernetes, OpenStack
+__Applications:__ Nginx, Apache, Autofs, MySQL, Redis, MSSQL, NcFTP, NetBackup, Nagios, Icinga 1+2, Redis, memcached, HAProxy, Varnish, ElasticSearch, ZooKeeper, OpenTSDB, Mesos, Marathon, Aurora, Kubernetes, OpenStack, Prometheus, AlertManager
 
-__Networking:__ Juniper Switches, Cisco Switches Routers and VOIP, F5/A10 Load Balancers, MERU Wireless
+__Networking:__ Infiniband, 10/40GE, Juniper Switches, Cisco Switches Routers and VOIP, F5/A10 Load Balancers, MERU Wireless
 
 ###Noteworthy Personal Projects
 
@@ -57,6 +58,16 @@ __Networking:__ Juniper Switches, Cisco Switches Routers and VOIP, F5/A10 Load B
 ***
 
 #Work Experience
+
+###[Uber ATC][uberatc] - New York, NY
+
+####Staff Engineer, SRE - January 2016 to present
+
+- Worked on mapping, autonomy, and safety
+- Provided technical leadership in the SRE domain
+- Designed and implemented next generation containerized HPC deployments for R&D
+- Built fully automated provisioning and lifecycle management system for high scale datacenters
+- Worked to coalesce around common infrastructure like Mesos, Marathon, Aurora, HDFS, Prometheus
 
 ###[Tumblr][tumblr] - New York, NY
 
