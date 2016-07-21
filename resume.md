@@ -71,7 +71,7 @@ __Networking:__ Infiniband, 10/40GE, Juniper Switches, Cisco Switches Routers an
 
 ###[Tumblr][tumblr] - New York, NY
 
-####SRE Staff Engineer - September 2014 to present
+####SRE Staff Engineer - September 2014 to January 2016
 
 - Provided technical leadership in the SRE domain
 - Formalized developer contribution processes and guidelines to accomodate a rapidly growing number of repos and development team 
