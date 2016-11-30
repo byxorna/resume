@@ -14,7 +14,8 @@
 [tumblr-geodash]: https://github.com/byxorna/tumblr-geodash "Tumblr Geodash"
 [collins-cli]: https://github.com/byxorna/collins-cli "Collins CLI"
 [site]: https://github.com/byxorna/site "Site"
-[pipefail]: http://pipefail.com "pipefail.com"
+[pipefail]: https://pipefail.com "pipefail.com"
+[fadecandy-orb-lamp]: https://github.com/byxorna/fadecandy-orb-lamp "fadecandy-orb-lamp"
 
 Gabriel (Gabe) S. Conradi
 ==================
@@ -43,6 +44,7 @@ __Networking:__ Infiniband, 10/40GE, Juniper Switches, Cisco Switches Routers an
 
 ###Noteworthy Personal Projects
 
+- [fadecandy-orb-lamp] - Fully addressable RPi and Fadecandy LED lamp
 - [goji] - Evented service discovery for apps in Marathon to generate DNS zones, HAProxy configs, etc (Golang)
 - [merlin] - confd inspired etcd backed config emitter (Ruby)
 - [moroccron] - mesos + cron = moroccron. Mesos framework for scheduled tasks, similar to Chronos (Golang)
