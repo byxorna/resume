@@ -61,9 +61,13 @@ __Networking:__ Infiniband, 10/40GE, Juniper Switches, Cisco Switches Routers an
 
 #Work Experience
 
+###[Tumblr][tumblr] - New York, NY
+
+####Senior Principle Engineer - July 2017 to present
+
 ###[Uber ATC][uberatc] - New York, NY
 
-####Staff Engineer, SRE - January 2016 to present
+####Staff Engineer, SRE - January 2016 to March 2017
 
 - Worked on mapping, autonomy, and safety
 - Provided technical leadership in the SRE domain
