@@ -63,7 +63,7 @@ __Networking:__ Infiniband, 10/40GE, Juniper Switches, Cisco Switches Routers an
 
 ###[Tumblr][tumblr] - New York, NY
 
-####Senior Principle Engineer - July 2017 to present
+####Senior Principal Engineer - July 2017 to present
 
 ###[Uber ATC][uberatc] - New York, NY
 
