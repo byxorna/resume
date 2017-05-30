@@ -6,8 +6,8 @@ This is a living copy of my resume. To see it live, go to http://pipefail.com/re
 Preview
 =======
 
-To preview the resume, install `pandoc` and `lynx`:
+To preview the resume, install `pandoc` and `lynx`, then run `npm test`:
 
 ```
-pandoc resume.md | lynx -stdin
+npm test
 ```
