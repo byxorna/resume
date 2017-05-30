@@ -1,3 +1,10 @@
+# Freelance Consulting
+March 2017->???
+
+# Uber ATC/ATG
+## SRE Staff Engineer
+January 2016 to March 2017
+
 #Tumblr
 ## SRE Staff Engineer
 September 20th, 2014

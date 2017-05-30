@@ -16,6 +16,7 @@
 [site]: https://github.com/byxorna/site "Site"
 [pipefail]: https://pipefail.com "pipefail.com"
 [fadecandy-orb-lamp]: https://github.com/byxorna/fadecandy-orb-lamp "fadecandy-orb-lamp"
+[consulting]: https://pipefail.com/consulting "Consulting"
 
 Gabriel (Gabe) S. Conradi
 ==================
@@ -60,6 +61,10 @@ __Networking:__ Infiniband, 10/40GE, Juniper Switches, Cisco Switches Routers an
 ***
 
 #Work Experience
+
+###[Freelance Consulting][consulting] - Everywhere
+
+####Infrastructure and Distributed Systems Consultant - March 2017 to present
 
 ###[Tumblr][tumblr] - New York, NY
 
