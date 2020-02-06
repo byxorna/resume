@@ -17,6 +17,10 @@
 [pipefail]: https://pipefail.com "pipefail.com"
 [fadecandy-orb-lamp]: https://github.com/byxorna/fadecandy-orb-lamp "fadecandy-orb-lamp"
 [consulting]: https://pipefail.com/consulting "Consulting"
+[k8s-sidecar-injector]: https://github.com/tumblr/k8s-sidecar-injector "k8s-sidecar-injector"
+[k8s-secret-projector]: https://github.com/tumblr/k8s-secret-projector "k8s-secret-projector"
+[k8s-config-projector]: https://github.com/tumblr/k8s-config-projector "k8s-config-projector"
+[docker-registry-pruner]: https://github.com/tumblr/docker-registry-pruner "docker-registry-pruner"
 
 Gabriel (Gabe) S. Conradi
 ==================
@@ -55,6 +59,10 @@ __Networking:__ Infiniband, 10/40GE, Juniper Switches, Cisco Switches Routers an
 
 ###Notable Upstream Contributions
 
+- [k8s-sidecar-injector] - Kubernetes sidecar injector (Go)
+- [k8s-secret-projector] - Automate Kubernetes Secret management and rotation, securely (Go)
+- [k8s-config-projector] - Automate Kubernetes ConfigMap creation and projection from external sources (Go)
+- [docker-registry-pruner] - Predicate based docker image registry maintenance (Go)
 - [collins] - Tumblr's infrastructure automation and asset management database (Scala)
 - [genesis] - Tumblr's infrastructure provisioning and automation framework (Ruby)
 
