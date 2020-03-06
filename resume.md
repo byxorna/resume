@@ -35,15 +35,15 @@ Linux engineer, systems architect, front and backend web developer, with an eye 
 
 ###Buzzwords
 
-__Languages:__ Bash/Zsh, Ruby, Golang, Scala, Javascript/Node, HTML/CSS, PHP, C\#, Perl, C/C++, SQL, Java, Python
+__Languages:__ Golang, Ruby, Bash/Zsh, Javascript/Node, HTML/CSS, PHP, C\#, Perl, C/C++, SQL, Java, Python, Scala
 
 __OSes:__ Linux (RHEL derivatives, Debian/Ubuntu, SuSE), Solaris, BSD
 
-__Tools:__ Puppet, D3.js, RPM+tito+mock, Jenkins, Drone.io, Docker, Collins, Genesis, mrepo, Kibana, Logstash, Fluentd, GitHub, Collectd, OSPF, jQuery, CFEngine2/3, Git, Ruby on Rails, Gerrit, Backbone.js, Resque, MVC3, Perforce, LXC/Xen/KVM/VMWare, ORMs, Kickstart, PXE, TFTP Boot, Phabricator
+__Applications:__ Kubernetes, Docker, Prometheus, AlertManager, Nginx, MySQL, Redis, Redis, memcached, HAProxy, Varnish, ElasticSearch, ZooKeeper, OpenTSDB, Mesos, Marathon, Aurora, OpenStack
+
+__Tools:__ Puppet, D3.js, RPM+tito+mock, Jenkins, Drone.io, Collins, Genesis, mrepo, Kibana, Logstash, Fluentd, GitHub, Collectd, OSPF, jQuery, CFEngine2/3, Git, Ruby on Rails, Gerrit, Backbone.js, Resque, MVC3, Perforce, LXC/Xen/KVM/VMWare, ORMs, Kickstart, PXE, Phabricator
 
 __Storage:__ HDFS, GPFS, NFS, LVM, Multipath, NetApp, Isilon, ZFS, Lustre
-
-__Applications:__ Nginx, Apache, Autofs, MySQL, Redis, MSSQL, NcFTP, NetBackup, Nagios, Icinga 1+2, Redis, memcached, HAProxy, Varnish, ElasticSearch, ZooKeeper, OpenTSDB, Mesos, Marathon, Aurora, Kubernetes, OpenStack, Prometheus, AlertManager
 
 __Networking:__ Infiniband, 10/40GE, Juniper Switches, Cisco Switches Routers and VOIP, F5/A10 Load Balancers, MERU Wireless
 
@@ -77,6 +77,12 @@ __Networking:__ Infiniband, 10/40GE, Juniper Switches, Cisco Switches Routers an
 ###[Tumblr][tumblr] - New York, NY
 
 ####Senior Principal Engineer - July 2017 to present
+
+- Architect of Kubernetes and containerization efforts
+- Worked to design highly observable distributed systems at scale
+- Evangalized modern engineering organization processes to elliminate friction between humans and systems
+- Drove adoption of Go as primary services and infrastructure language
+- Strove to elliminate toil through automation, instrumentation, and careful application of SRE ethos
 
 ###[Uber ATC][uberatc] - New York, NY
 
