@@ -8,6 +8,8 @@
 [slsc]: http://www.slsc.org/ "St. Louis Science Center"
 [collins]: https://github.com/tumblr/collins "Collins"
 [genesis]: https://github.com/tumblr/genesis "Genesis"
+[homer]: https://github.com/byxorna/homer "Homer"
+[tumblrtv-xscreensaver]: https://github.com/byxorna/tumblrtv-xscreensaver "TumblrTV xscreensaver"
 [goji]: https://github.com/byxorna/goji "Goji"
 [merlin]: https://github.com/byxorna/merlin "Merlin"
 [moroccron]: https://github.com/byxorna/moroccron "Moroccron"
@@ -21,6 +23,8 @@
 [k8s-secret-projector]: https://github.com/tumblr/k8s-secret-projector "k8s-secret-projector"
 [k8s-config-projector]: https://github.com/tumblr/k8s-config-projector "k8s-config-projector"
 [docker-registry-pruner]: https://github.com/tumblr/docker-registry-pruner "docker-registry-pruner"
+[tumblr-engineering-k8s-tools-blogpost]: https://engineering.tumblr.com/post/182013497734/open-sourcing-our-kubernetes-tools "Open Sourcing Tumblr's Kubernetes Tools"
+[tumblr-engineering-docker-registry-pruner-blogpost]: https://engineering.tumblr.com/post/186469641253/docker-registry-pruner-release "Open Sourcing Tumblr's Docker Registry Pruner"
 
 Gabriel (Gabe) S. Conradi
 ==================
@@ -47,16 +51,6 @@ __Storage:__ HDFS, GPFS, NFS, LVM, Multipath, NetApp, Isilon, ZFS, Lustre
 
 __Networking:__ Infiniband, 10/40GE, Juniper Switches, Cisco Switches Routers and VOIP, F5/A10 Load Balancers, MERU Wireless
 
-###Noteworthy Personal Projects
-
-- [fadecandy-orb-lamp] - Fully addressable RPi and Fadecandy LED lamp
-- [goji] - Evented service discovery for apps in Marathon to generate DNS zones, HAProxy configs, etc (Golang)
-- [merlin] - confd inspired etcd backed config emitter (Ruby)
-- [moroccron] - mesos + cron = moroccron. Mesos framework for scheduled tasks, similar to Chronos (Golang)
-- [tumblr-geodash] - Radiator dashboard for visualizing Tumblr posts in realtime from firehose (Golang, JS)
-- [collins-cli] - CLI for interfacing with [collins] API (Ruby)
-- [site] - Site driving [pipefail.com][pipefail] (Node)
-
 ###Notable Upstream Contributions
 
 - [k8s-sidecar-injector] - Kubernetes sidecar injector (Go)
@@ -65,6 +59,19 @@ __Networking:__ Infiniband, 10/40GE, Juniper Switches, Cisco Switches Routers an
 - [docker-registry-pruner] - Predicate based docker image registry maintenance (Go)
 - [collins] - Tumblr's infrastructure automation and asset management database (Scala)
 - [genesis] - Tumblr's infrastructure provisioning and automation framework (Ruby)
+- [tumblr-engineering-k8s-tools-blogpost] - Open Sourcing Tumblr's Kubernetes Tools (Blog)
+- [tumblr-engineering-docker-registry-pruner-blogpost] - Open Sourcing Tumblr's Docker Registry Pruner (Blog)
+
+###Noteworthy Personal Projects
+
+- [homer] - DNS over HTTPS (DOH) implementation (Golang)
+- [tumblrtv-xscreensaver] - TumblrTV xscreensaver (C)
+- [fadecandy-orb-lamp] - Fully addressable RPi and Fadecandy LED lamp (Node)
+- [tumblr-geodash] - Radiator dashboard for visualizing Tumblr posts in realtime from firehose (Golang, JS)
+- [goji] - Evented service discovery for apps in Marathon to generate DNS zones, HAProxy configs, etc (Golang)
+- [merlin] - confd inspired etcd backed config emitter (Ruby)
+- [collins-cli] - CLI for interfacing with [collins] API (Ruby)
+- [site] - Site driving [pipefail.com][pipefail] (Node)
 
 ***
 
@@ -84,7 +91,7 @@ __Networking:__ Infiniband, 10/40GE, Juniper Switches, Cisco Switches Routers an
 - Drove adoption of Go as primary services and infrastructure language
 - Strove to elliminate toil through automation, instrumentation, and careful application of SRE ethos
 
-###[Uber ATC][uberatc] - New York, NY
+###[Uber ATC][uberatc] - New York, NY | Pittsburgh, PA
 
 ####Staff Engineer, SRE - January 2016 to March 2017
 
