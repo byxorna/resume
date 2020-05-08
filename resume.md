@@ -77,19 +77,19 @@ __Networking:__ Infiniband, 10/40GE, Juniper Switches, Cisco Switches Routers an
 
 #Work Experience
 
-###[Freelance Consulting][consulting] - Everywhere
-
-####Infrastructure and Distributed Systems Consultant - March 2017 to present
-
 ###[Tumblr][tumblr] - New York, NY
 
-####Senior Principal Engineer - July 2017 to present
+####Senior Principal Engineer - July 2017 to May 2020
 
 - Architect of Kubernetes and containerization efforts
 - Worked to design highly observable distributed systems at scale
 - Evangalized modern engineering organization processes to elliminate friction between humans and systems
 - Drove adoption of Go as primary services and infrastructure language
 - Strove to elliminate toil through automation, instrumentation, and careful application of SRE ethos
+
+###[Freelance Consulting][consulting] - Everywhere
+
+####Infrastructure and Distributed Systems Consultant - March 2017 to present
 
 ###[Uber ATC][uberatc] - New York, NY | Pittsburgh, PA
 

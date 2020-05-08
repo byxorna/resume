@@ -1,3 +1,15 @@
+# Datadog
+
+## Senior Engineer
+
+June 2020->???
+
+# Tumblr
+
+## Senior Principal Engineer
+
+July 2017 to May 2020
+
 # Freelance Consulting
 March 2017->???
 
