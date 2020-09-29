@@ -2,6 +2,7 @@
 [email]: mailto:gabe.conradi+rct@gmail.com
 [factset]: https://www.factset.com "FactSet Research Systems"
 [tumblr]: https://www.tumblr.com "Tumblr"
+[datadog]: https://www.datadoghq.com "Datadog"
 [uberatc]: https://www.uberatc.com "Uber ATC"
 [nss]: http://nss.wustl.edu/ "Washington University Network Services"
 [hitec]: http://www.hiteccopy.com/ "Hi/Tec Copy Center"
@@ -77,9 +78,15 @@ __Networking:__ Infiniband, 10/40GE, Juniper Switches, Cisco Switches Routers an
 
 #Work Experience
 
+###[Datadog][datadog] - New York, NY
+
+####Senior Engineer - July 2020 to present
+
+- High scale Kubernetes on the Compute team
+
 ###[Tumblr][tumblr] - New York, NY
 
-####Senior Principal Engineer - July 2017 to May 2020
+####Senior Principal Engineer - July 2017 to June 2020
 
 - Architect of Kubernetes and containerization efforts
 - Worked to design highly observable distributed systems at scale
