@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Gabe Conradi's resume",
   "main": "index.js",
-  "private":true,
+  "private": true,
   "scripts": {
     "test": "pandoc resume.md | lynx -stdin"
   },
@@ -14,5 +14,8 @@
   "author": "Gabe Conradi <gabe.conradi@gmail.com>",
   "license": "Apache 2.0",
   "readmeFilename": "README.md",
-  "gitHead": "a0282aa4711e44969b393218a8600b1307504c5c"
+  "gitHead": "a0282aa4711e44969b393218a8600b1307504c5c",
+  "dependencies": {
+    "mdpdf": "^2.1.2"
+  }
 }

@@ -34,11 +34,11 @@ Gabriel (Gabe) S. Conradi
 - [https://github.com/byxorna][github]
 - [http://pipefail.com](http://pipefail.com)
 
-###Summary
+### Summary
 
 Linux engineer, systems architect, front and backend web developer, with an eye towards scalable design, containers, future technologies, interesting problems, clean solutions, and service oriented architecture.
 
-###Buzzwords
+### Buzzwords
 
 __Languages:__ Golang, Ruby, Bash/Zsh, Javascript/Node, HTML/CSS, PHP, C\#, Perl, C/C++, SQL, Java, Python, Scala
 
@@ -52,7 +52,7 @@ __Storage:__ HDFS, GPFS, NFS, LVM, Multipath, NetApp, Isilon, ZFS, Lustre
 
 __Networking:__ Infiniband, 10/40GE, Juniper Switches, Cisco Switches Routers and VOIP, F5/A10 Load Balancers, MERU Wireless
 
-###Notable Upstream Contributions
+### Notable Upstream Contributions
 
 - [k8s-sidecar-injector] - Kubernetes sidecar injector (Go)
 - [k8s-secret-projector] - Automate Kubernetes Secret management and rotation, securely (Go)
@@ -63,7 +63,7 @@ __Networking:__ Infiniband, 10/40GE, Juniper Switches, Cisco Switches Routers an
 - [tumblr-engineering-k8s-tools-blogpost] - Open Sourcing Tumblr's Kubernetes Tools (Blog)
 - [tumblr-engineering-docker-registry-pruner-blogpost] - Open Sourcing Tumblr's Docker Registry Pruner (Blog)
 
-###Noteworthy Personal Projects
+### Noteworthy Personal Projects
 
 - [homer] - DNS over HTTPS (DOH) implementation (Golang)
 - [tumblrtv-xscreensaver] - TumblrTV xscreensaver (C)
@@ -76,17 +76,17 @@ __Networking:__ Infiniband, 10/40GE, Juniper Switches, Cisco Switches Routers an
 
 ***
 
-#Work Experience
+# Work Experience
 
-###[Datadog][datadog] - New York, NY
+### [Datadog][datadog] - New York, NY
 
-####Senior Engineer - July 2020 to present
+#### Senior Engineer - July 2020 to present
 
 - High scale Kubernetes on the Compute team
 
-###[Tumblr][tumblr] - New York, NY
+### [Tumblr][tumblr] - New York, NY
 
-####Senior Principal Engineer - July 2017 to June 2020
+#### Senior Principal Engineer - July 2017 to June 2020
 
 - Architect of Kubernetes and containerization efforts
 - Worked to design highly observable distributed systems at scale
@@ -94,13 +94,13 @@ __Networking:__ Infiniband, 10/40GE, Juniper Switches, Cisco Switches Routers an
 - Drove adoption of Go as primary services and infrastructure language
 - Strove to elliminate toil through automation, instrumentation, and careful application of SRE ethos
 
-###[Freelance Consulting][consulting] - Everywhere
+### [Freelance Consulting][consulting] - Everywhere
 
-####Infrastructure and Distributed Systems Consultant - March 2017 to present
+#### Infrastructure and Distributed Systems Consultant - March 2017 to present
 
-###[Uber ATC][uberatc] - New York, NY | Pittsburgh, PA
+### [Uber ATC][uberatc] - New York, NY | Pittsburgh, PA
 
-####Staff Engineer, SRE - January 2016 to March 2017
+#### Staff Engineer, SRE - January 2016 to March 2017
 
 - Worked on mapping, autonomy, and safety
 - Provided technical leadership in the SRE domain
@@ -108,9 +108,9 @@ __Networking:__ Infiniband, 10/40GE, Juniper Switches, Cisco Switches Routers an
 - Built fully automated provisioning and lifecycle management system for high scale datacenters
 - Worked to coalesce around common infrastructure like Mesos, Marathon, Aurora, HDFS, Prometheus
 
-###[Tumblr][tumblr] - New York, NY
+### [Tumblr][tumblr] - New York, NY
 
-####SRE Staff Engineer - September 2014 to January 2016
+#### SRE Staff Engineer - September 2014 to January 2016
 
 - Provided technical leadership in the SRE domain
 - Formalized developer contribution processes and guidelines to accomodate a rapidly growing number of repos and development team 
@@ -120,7 +120,7 @@ __Networking:__ Infiniband, 10/40GE, Juniper Switches, Cisco Switches Routers an
 - Created full container lifecycle automation in both bare metal and scheduled (i.e. Mesos) environments (logging, metrics, monitoring, deployment, config deployment)
 - Created a comprehensive log aggregation, alerting, and dashboarding infrastructure with Logstash, Kibana, ElasticSearch, and Icinga
 
-####Site Reliability Engineer - July 2013 to September 2014
+#### Site Reliability Engineer - July 2013 to September 2014
 
 - Maintained and scaled infrastructure of top 20 site in US
 - Web scale HTTP operation and architecture (Load balancing, caching, CDNs, async job tier, DB sharding, etc)
@@ -133,9 +133,9 @@ __Networking:__ Infiniband, 10/40GE, Juniper Switches, Cisco Switches Routers an
 - Performance tuning of critical systems
 
 
-###[FactSet Research Systems, Inc][factset] - Norwalk, CT
+### [FactSet Research Systems, Inc][factset] - Norwalk, CT
 
-####Unix Systems Engineer III, UNIX Team - October 2011 to June 2013
+#### Unix Systems Engineer III, UNIX Team - October 2011 to June 2013
 
 - Work in environment of 800+ RHEL5 and 6 machines, enabling transition from VMS to Linux at scale
 - Automate and simplify patching, builds, configuration management, deployments, and decommissions
@@ -146,7 +146,7 @@ __Networking:__ Infiniband, 10/40GE, Juniper Switches, Cisco Switches Routers an
 - Design and manage services providing REST interfaces to MySQL, web infrastructure, and provisioning
 
 
-####Voice Engineer, Voice Engineering (Core Network Engineering) - July 2010 to October 2011
+#### Voice Engineer, Voice Engineering (Core Network Engineering) - July 2010 to October 2011
 
 - Designed, implemented, and supported a global voice network 
 - Built complex client-side applications to support global consultant workforce 
@@ -155,9 +155,9 @@ __Networking:__ Infiniband, 10/40GE, Juniper Switches, Cisco Switches Routers an
 - Worked with Cisco voice routers, CallManager, Unity Messaging, and Unified Contact Center
 
 
-###[Washington University Network Services & Support][nss] - St. Louis, MO
+### [Washington University Network Services & Support][nss] - St. Louis, MO
 
-####UNIX Systems Administrator - March 2009 to July 2010
+#### UNIX Systems Administrator - March 2009 to July 2010
 
 - Maintained and deployed production Linux and Solaris environments 
 - Designed custom backup, HA, and monitoring solutions 
@@ -166,9 +166,9 @@ __Networking:__ Infiniband, 10/40GE, Juniper Switches, Cisco Switches Routers an
 - Implemented new technologies as they became available to improve network service 
 
 
-###[Hi/Tec Copy Center][hitec] - St. Louis, MO
+### [Hi/Tec Copy Center][hitec] - St. Louis, MO
 
-####Copier Operator/Customer Service Representative - August 2004 to September 2008
+#### Copier Operator/Customer Service Representative - August 2004 to September 2008
 
 - Collaborated with customers to obtain job specifications 
 - Operated and maintained Canon and Xerox copiers and print servers 
@@ -177,9 +177,9 @@ __Networking:__ Infiniband, 10/40GE, Juniper Switches, Cisco Switches Routers an
 
 ***
 
-#Education
+# Education
 
-###Washington University in St. Louis, MO - September 2006 to May 2010
+### Washington University in St. Louis, MO - September 2006 to May 2010
 
 - Bachelor of Science in Applied Science with a double major in:
   - Computer Science (Cum Laude)
@@ -192,9 +192,9 @@ __Networking:__ Infiniband, 10/40GE, Juniper Switches, Cisco Switches Routers an
 Volunteer Work
 ==============
 
-###[St. Louis Science Center][slsc] - St. Louis, MO
+### [St. Louis Science Center][slsc] - St. Louis, MO
 
-####Volunteer Gallery Aide - June 2001 to August 2004
+#### Volunteer Gallery Aide - June 2001 to August 2004
 
 - Managed the Cyberville Gallery 
 - Aided in leading the Lego Mindstorms ticketed activity 

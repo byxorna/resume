@@ -1,0 +1,11 @@
+# See https://pre-commit.com for more information
+# See https://pre-commit.com/hooks.html for more hooks
+repos:
+-   repo: local
+    hooks:
+    -   id: render-pdf
+        name: render-pdf
+        entry: ./render_pdf.sh
+        language: system
+        files: 'resume\.md'
+        verbose: true
