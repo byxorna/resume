@@ -4,9 +4,9 @@
 [tumblr]: https://www.tumblr.com "Tumblr"
 [datadog]: https://www.datadoghq.com "Datadog"
 [uberatc]: https://www.uberatc.com "Uber ATC"
-[nss]: http://nss.wustl.edu/ "Washington University Network Services"
-[hitec]: http://www.hiteccopy.com/ "Hi/Tec Copy Center"
-[slsc]: http://www.slsc.org/ "St. Louis Science Center"
+[nss]: https://nss.wustl.edu/ "Washington University Network Services"
+[hitec]: https://www.hiteccopy.com/ "Hi/Tec Copy Center"
+[slsc]: https://www.slsc.org/ "St. Louis Science Center"
 [collins]: https://github.com/tumblr/collins "Collins"
 [genesis]: https://github.com/tumblr/genesis "Genesis"
 [homer]: https://github.com/byxorna/homer "Homer"
@@ -31,8 +31,8 @@ Gabriel (Gabe) S. Conradi
 ==================
 
 - [gabe.conradi+rct@gmail.com][email]
-- [https://github.com/byxorna][github]
-- [http://pipefail.com](http://pipefail.com)
+- [github.com/byxorna][github]
+- [pipefail.com](https://pipefail.com)
 
 ### Summary
 
