@@ -137,7 +137,7 @@ __Networking:__ Infiniband, 10/40GE, Juniper Switches, Cisco Switches Routers an
 
 #### Unix Systems Engineer III, UNIX Team - October 2011 to June 2013
 
-- Work in environment of 800+ RHEL5 and 6 machines, enabling transition from VMS to Linux at scale
+- Work in environment of 800+ RHEL5 and 6 machines, enabling transition from VMS to Linux at scale
 - Automate and simplify patching, builds, configuration management, deployments, and decommissions
 - Build and configure physical and virtual systems with CFEngine and homemade provisioning tools
 - Lead GPFS engineer; manage 150+ node clusters, tuned for application performance
@@ -148,10 +148,10 @@ __Networking:__ Infiniband, 10/40GE, Juniper Switches, Cisco Switches Routers an
 
 #### Voice Engineer, Voice Engineering (Core Network Engineering) - July 2010 to October 2011
 
-- Designed, implemented, and supported a global voice network 
-- Built complex client-side applications to support global consultant workforce 
-- Designed internal reporting tools using modern languages, libraries, and practices 
-- Configured dial plan to support toll-aversion, mixed VOIP and POTS infrastructure 
+- Designed, implemented, and supported a global voice network
+- Built complex client-side applications to support global consultant workforce
+- Designed internal reporting tools using modern languages, libraries, and practices
+- Configured dial plan to support toll-aversion, mixed VOIP and POTS infrastructure
 - Worked with Cisco voice routers, CallManager, Unity Messaging, and Unified Contact Center
 
 
@@ -159,21 +159,21 @@ __Networking:__ Infiniband, 10/40GE, Juniper Switches, Cisco Switches Routers an
 
 #### UNIX Systems Administrator - March 2009 to July 2010
 
-- Maintained and deployed production Linux and Solaris environments 
-- Designed custom backup, HA, and monitoring solutions 
-- Managed IP backbone networks with I1 and I2 connectivity 
-- Managed campus-wide DNS and IP 
-- Implemented new technologies as they became available to improve network service 
+- Maintained and deployed production Linux and Solaris environments
+- Designed custom backup, HA, and monitoring solutions
+- Managed IP backbone networks with I1 and I2 connectivity
+- Managed campus-wide DNS and IP
+- Implemented new technologies as they became available to improve network service
 
 
 ### [Hi/Tec Copy Center][hitec] - St. Louis, MO
 
 #### Copier Operator/Customer Service Representative - August 2004 to September 2008
 
-- Collaborated with customers to obtain job specifications 
-- Operated and maintained Canon and Xerox copiers and print servers 
-- Designed customer's orders with professional graphic design software 
-- Mounted and framed large format posters 
+- Collaborated with customers to obtain job specifications
+- Operated and maintained Canon and Xerox copiers and print servers
+- Designed customer's orders with professional graphic design software
+- Mounted and framed large format posters
 
 ***
 
@@ -196,8 +196,8 @@ Volunteer Work
 
 #### Volunteer Gallery Aide - June 2001 to August 2004
 
-- Managed the Cyberville Gallery 
-- Aided in leading the Lego Mindstorms ticketed activity 
-- Supervised activities in the Puzzles Exploradome Exhibit 
-- Organized sponsored LAN party events 
+- Managed the Cyberville Gallery
+- Aided in leading the Lego Mindstorms ticketed activity
+- Supervised activities in the Puzzles Exploradome Exhibit
+- Organized sponsored LAN party events
 
