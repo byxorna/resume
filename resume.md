@@ -38,21 +38,21 @@ Gabriel (Gabe) S. Conradi
 
 Linux engineer, systems architect, front and backend web developer, with an eye towards scalable design, containers, future technologies, interesting problems, clean solutions, and service oriented architecture.
 
-### Buzzwords
+### Focus
 
 __Languages:__ Golang, Ruby, Bash/Zsh, Javascript/Node, HTML/CSS, PHP, C\#, Perl, C/C++, SQL, Java, Python, Scala
 
-__OSes:__ Linux (RHEL derivatives, Debian/Ubuntu, SuSE), Solaris, BSD
+__OSes:__ Linux, Solaris, BSD, embedded devices
 
-__Applications:__ Kubernetes, Docker, Prometheus, AlertManager, Nginx, MySQL, Redis, Redis, memcached, HAProxy, Varnish, ElasticSearch, ZooKeeper, OpenTSDB, Mesos, Marathon, Aurora, OpenStack
+__Infra:__ Kubernetes, Docker, Prometheus, AlertManager, Nginx, MySQL, Redis, Redis, memcached, HAProxy, Varnish, ElasticSearch, ZooKeeper, OpenTSDB, Mesos, Marathon, Aurora, OpenStack
 
 __Tools:__ Puppet, D3.js, RPM+tito+mock, Jenkins, Drone.io, Collins, Genesis, mrepo, Kibana, Logstash, Fluentd, GitHub, Collectd, OSPF, jQuery, CFEngine2/3, Git, Ruby on Rails, Gerrit, Backbone.js, Resque, MVC3, Perforce, LXC/Xen/KVM/VMWare, ORMs, Kickstart, PXE, Phabricator
 
-__Storage:__ HDFS, GPFS, NFS, LVM, Multipath, NetApp, Isilon, ZFS, Lustre
+__Trad Storage:__ HDFS, GPFS, NFS, LVM, Multipath, NetApp, Isilon, ZFS, Lustre
 
-__Networking:__ Infiniband, 10/40GE, Juniper Switches, Cisco Switches Routers and VOIP, F5/A10 Load Balancers, MERU Wireless
+__Networking:__ Ubiquiti, Mikrotik, Infiniband, 10/40GE, Juniper Switches, Cisco Switches Routers and VOIP, F5/A10 Load Balancers, MERU Wireless
 
-### Notable Upstream Contributions
+### Upstream Contributions
 
 - [k8s-sidecar-injector] - Kubernetes sidecar injector (Go)
 - [k8s-secret-projector] - Automate Kubernetes Secret management and rotation, securely (Go)
@@ -63,7 +63,7 @@ __Networking:__ Infiniband, 10/40GE, Juniper Switches, Cisco Switches Routers an
 - [tumblr-engineering-k8s-tools-blogpost] - Open Sourcing Tumblr's Kubernetes Tools (Blog)
 - [tumblr-engineering-docker-registry-pruner-blogpost] - Open Sourcing Tumblr's Docker Registry Pruner (Blog)
 
-### Noteworthy Personal Projects
+### Personal Projects
 
 - [homer] - DNS over HTTPS (DOH) implementation (Golang)
 - [tumblrtv-xscreensaver] - TumblrTV xscreensaver (C)
@@ -76,13 +76,15 @@ __Networking:__ Infiniband, 10/40GE, Juniper Switches, Cisco Switches Routers an
 
 ***
 
-# Work Experience
+# Professional History
 
 ### [Datadog][datadog] - New York, NY
 
-#### Senior Engineer - July 2020 to present
+#### Senior Software Engineer - July 2020 to December 2021
 
-- High scale Kubernetes on the Compute team
+- Automation tooling and architecture to build a multi-cloud, multi-vendor, compute fabric
+- High-scale Kubernetes on the Compute Platform team
+- gRPC service discovery on Fabric Platform team
 
 ### [Tumblr][tumblr] - New York, NY
 
