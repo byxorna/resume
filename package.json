@@ -16,6 +16,6 @@
   "readmeFilename": "README.md",
   "gitHead": "a0282aa4711e44969b393218a8600b1307504c5c",
   "dependencies": {
-    "mdpdf": "^2.1.2"
+    "mdpdf": "^3.0.1"
   }
 }
