@@ -1,3 +1,4 @@
+[seatgeek]: https://seatgeek.com "SeatGeek"
 [github]: https://github.com/byxorna "GitHub"
 [email]: mailto:gabe.conradi+rct@gmail.com
 [factset]: https://www.factset.com "FactSet Research Systems"
@@ -77,6 +78,12 @@ __Networking:__ Ubiquiti, Mikrotik, Infiniband, 10/40GE, Juniper Switches, Cisco
 ***
 
 # Professional History
+
+### [SeatGeek][seatgeek] - New York, NY
+
+#### Staff Software Engineer - April 2023
+
+- Building SOTA compute platforms
 
 ### [Datadog][datadog] - New York, NY
 
