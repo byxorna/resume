@@ -4,9 +4,12 @@ This is a living copy of my resume. To see it live, go to http://pipefail.com/re
 
 ## Build
 
+Requires [pandoc](https://pandoc.org/) and [typst](https://typst.app/):
+
 ```
+$ brew install pandoc typst
 $ make build
-$ xdg-open resume.pdf
+$ open resume.pdf
 ```
 
 ## Use
