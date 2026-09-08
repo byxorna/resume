@@ -37,7 +37,7 @@ Gabriel (Gabe) S. Conradi
 
 ### Summary
 
-Linux engineer, systems architect, front and backend web developer, with an eye towards scalable design, containers, future technologies, interesting problems, clean solutions, and service oriented architecture.
+Staff engineer building and operating large-scale Kubernetes platforms, with an eye towards scalable designs and fault tolerant architectures. Deep experience in service mesh, container networking, infrastructure-as-code, and platform API design. Track record of leading complex migrations (CNI, service mesh, IaC) across hundreds of services without outages. Builds controllers, operators, and developer-facing abstractions that make platforms self-service. Cares about reliability, operational ergonomics, and doing fewer things well.
 
 ### Focus
 
@@ -45,9 +45,9 @@ __Languages:__ Golang, Ruby, Bash/Zsh, Javascript/Node, HTML/CSS, PHP, C\#, Perl
 
 __OSes:__ Linux, Solaris, BSD, embedded devices
 
-__Infra:__ Kubernetes, Docker, Prometheus, AlertManager, Nginx, MySQL, Redis, Redis, memcached, HAProxy, Varnish, ElasticSearch, ZooKeeper, OpenTSDB, Mesos, Marathon, Aurora, OpenStack
+__Infra:__ Cilium, Envoy, ArgoCD, Karpenter, Helm, kubebuilder/controller-runtime, eBPF, Consul, Vault, Kubernetes, Docker, Prometheus, AlertManager, Nginx, MySQL, Redis, memcached, HAProxy, Varnish, ElasticSearch, ZooKeeper, OpenTSDB, Mesos, Marathon, Aurora, OpenStack
 
-__Tools:__ Puppet, D3.js, RPM+tito+mock, Jenkins, Drone.io, Collins, Genesis, mrepo, Kibana, Logstash, Fluentd, GitHub, Collectd, OSPF, jQuery, CFEngine2/3, Git, Ruby on Rails, Gerrit, Backbone.js, Resque, MVC3, Perforce, LXC/Xen/KVM/VMWare, ORMs, Kickstart, PXE, Phabricator
+__Tools:__ Terraform, Terragrunt, Kustomize, Datadog, GitLab CI, gRPC, Puppet, D3.js, RPM+tito+mock, Jenkins, Drone.io, Collins, Genesis, mrepo, Kibana, Logstash, Fluentd, GitHub, Collectd, jQuery, CFEngine2/3, Git, Ruby on Rails, Gerrit, LXC/Xen/KVM/VMWare, Kickstart, PXE
 
 __Trad Storage:__ HDFS, GPFS, NFS, LVM, Multipath, NetApp, Isilon, ZFS, Lustre
 
@@ -81,9 +81,16 @@ __Networking:__ Ubiquiti, Mikrotik, Infiniband, 10/40GE, Juniper Switches, Cisco
 
 ### [SeatGeek][seatgeek] - New York, NY
 
-#### Staff Software Engineer - April 2023
+#### Staff Software Engineer - April 2023 to present
 
-- Building SOTA compute platforms
+- Led full replacement of Consul Connect service mesh with Cilium CNI and Envoy across all production Kubernetes clusters, migrating hundreds of applications without causing an outage
+- Designed and built `platform-operator`, a Kubernetes controller managing MeshService CRDs, RBAC AccessBindings, node lifecycle (integrating node-problem-detector conditions with taint management for safe cilium-agent and envoy startup, and automatic workload eviction on agent segfaults/crashes), ServicePerimeter routing, and Atlantis instance provisioning using kubebuilder and controller-runtime
+- Built the Vroom Autopilot system, a feedback controller that automatically manages ticket onsale queue throughput by evaluating real-time observability signals (latency, thread utilization, error rates, circuit breaker state) from per-event infrastructure, adjusting exit rates to maximize purchaser throughput while maintaining system stability
+- Drove multi-phase migration of infrastructure-as-code from a monolithic Terraform repo into Nucleus (CDKTF), moving dozens of projects with careful state management and zero downtime
+- Debugged deep networking issues spanning eBPF, Envoy xDS protocol, cilium-agent, kernel conntrack, and iptables tproxy rules, contributing fixes and features upstream to cilium/cilium
+- Operated and upgraded Cilium (1.14 through 1.19), Karpenter, ArgoCD, Consul, Vault, cert-manager, and Kong Ingress Controller across 12+ EKS clusters spanning US and EU regions
+- Created observability foundations: SLOs for pod scheduling and container readiness, dashboards for cilium dataplane and karpenter provisioning, custom metrics via platform-operator, and Datadog index/monitor management
+- Formalized "constant gardening" as team practice for continuous operational improvement during oncall rotations
 
 ### [Datadog][datadog] - New York, NY
 
