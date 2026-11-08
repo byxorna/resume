@@ -81,7 +81,7 @@ __Networking:__ Ubiquiti, Mikrotik, Infiniband, 10/40GE, Juniper Switches, Cisco
 
 ### [SeatGeek][seatgeek] - New York, NY
 
-#### Staff Software Engineer - April 2023 to present
+#### Staff Software Engineer - April 2023 to October 2026
 
 - Led full replacement of Consul Connect service mesh with Cilium CNI and Envoy across all production Kubernetes clusters, migrating hundreds of applications without causing an outage
 - Designed and built `platform-operator`, a Kubernetes controller managing MeshService CRDs, RBAC AccessBindings, node lifecycle (integrating node-problem-detector conditions with taint management for safe cilium-agent and envoy startup, and automatic workload eviction on agent segfaults/crashes), ServicePerimeter routing, and Atlantis instance provisioning using kubebuilder and controller-runtime

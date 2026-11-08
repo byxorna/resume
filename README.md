@@ -7,7 +7,8 @@ This is a living copy of my resume. To see it live, go to http://pipefail.com/re
 Requires [pandoc](https://pandoc.org/) and [typst](https://typst.app/):
 
 ```
-$ brew install pandoc typst
+# macos: $ brew install pandoc typst
+# linux: apt install pandoc cargo && cargo install --locked typst-cli
 $ make build
 $ open resume.pdf
 ```
